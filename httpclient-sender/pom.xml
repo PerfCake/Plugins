@@ -14,12 +14,12 @@
       <maven.dependency.plugin.version>2.10</maven.dependency.plugin.version>
       <httpclient.version>4.3.3</httpclient.version>
    </properties>
-   <reporitories>
+   <repositories>
       <repository>
-      <id>oss-sonatype-public</id>
-      <name>Public Sonatype OSS</name>
-      <url>https://oss.sonatype.org/content/groups/public/</url>
-    </repository>
+         <id>oss-sonatype-public</id>
+         <name>Public Sonatype OSS</name>
+         <url>https://oss.sonatype.org/content/groups/public/</url>
+      </repository>
    </repositories>
    <dependencies>
       <dependency>
